@@ -47,19 +47,14 @@
 - Explore Cybersecurity.
 - Contribute to Open Source.
 
+
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaddadendias-code&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaddadendias-code&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yaddadendias-code&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaddadendias-code&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
 
 ### 💡 Code • Learn • Build • Repeat
 
