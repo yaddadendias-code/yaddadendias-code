@@ -47,8 +47,4 @@
 - Explore Cybersecurity.
 - Contribute to Open Source.
 
-                    ### 💡 Code • Learn • Build • Repeat
-
-                    **Thanks for visiting my profile!** ⭐
-
 </div>
